@@ -21,3 +21,11 @@ Use the search feature or explore our categories to find exactly what your palat
   Discover desserts that bring a perfect conclusion to your meal.
 - Dinner:
   Experience the culinary artistry of our dinner creations.
+
+## How to View the Design
+
+Provide instructions for others to view or interact with the design:
+
+1. Clone the repository: `git clone https://github.com/your-username/UI-UX-Design-Task-1.git`
+2. Open the design files in Figma.
+3. Explore different design screens and interactions.
