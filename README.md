@@ -2,7 +2,7 @@
 Explore a Culinary Journey and Featured Delights
 
 ## Design Screenshots
-![Online Menu ]("E:\task3.png")
+![Online Menu ](E:\task3.png)
 
 - Figma: [Link to Figma](https://www.figma.com/file/A6kaimWHJ9612IbYGlM4Wm/CODSOFT-TASK-3?type=design&node-id=0%3A1&mode=design&t=IDTBFXp30RYFZ0k1-1)
 
